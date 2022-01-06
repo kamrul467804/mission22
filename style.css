@@ -1,0 +1,19 @@
+.wrapper{
+    width: 960px;
+    margin: 0 auto;
+}
+.stay{
+    width: 400px;
+    float: left;
+}
+#click1{
+    width: 60px;
+    height: 25px;
+    background-color: brown;
+    text-decoration: none;
+    padding: 5px;
+}
+.person{
+    width: 400px;
+    float: right;
+}
